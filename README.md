@@ -1,5 +1,6 @@
 # PricePage
 These are the prices for our services 
+
 <!DOCTYPE html>
 <html>
     <head> 
